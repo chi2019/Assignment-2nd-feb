@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.tinku.fragments.Main2Activity">
+
+    <fragment
+        android:id="@+id/fragmentDataPassing"
+        android:name="com.example.tinku.fragments.fragmentTwo"
+        android:layout_width="350dp"
+        android:layout_height="250dp"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp" />
+
+    <fragment
+        android:id="@+id/fragment3"
+        android:name="com.example.tinku.fragments.Static_default"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        tools:layout_editor_absoluteX="189dp"
+        tools:layout_editor_absoluteY="389dp" />
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IntentCalculatorAndCalender</string>
+    <string name="calculator">Calculator</string>
+    <string name="calandar">Calandar</string>
+</resources>

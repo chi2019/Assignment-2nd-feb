@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/holo_orange_light"
+    tools:context="com.example.tinku.a25thjanassignemntoffrontend.MainActivity">
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="148dp"
+        android:layout_height="134dp"
+        android:layout_marginBottom="26dp"
+        android:layout_marginStart="35dp"
+        android:drawableTop="@drawable/restarent"
+        android:text="Restaurent"
+        app:layout_constraintBottom_toTopOf="@+id/button2"
+        app:layout_constraintStart_toEndOf="@+id/button5" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="148dp"
+        android:layout_height="134dp"
+        android:layout_marginBottom="14dp"
+        android:layout_marginEnd="35dp"
+        android:drawableTop="@drawable/history"
+        android:text="FUN"
+        app:layout_constraintBottom_toTopOf="@+id/button4"
+        app:layout_constraintEnd_toStartOf="@+id/button2" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="148dp"
+        android:layout_height="134dp"
+        android:layout_marginBottom="53dp"
+        android:layout_marginEnd="150dp"
+        android:layout_marginStart="86dp"
+        android:drawableTop="@drawable/cart"
+        android:text="CART"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="148dp"
+        android:layout_height="134dp"
+        android:layout_marginBottom="12dp"
+        android:layout_marginStart="84dp"
+        android:drawableTop="@drawable/download"
+        android:text="LOCK"
+        app:layout_constraintBottom_toTopOf="@+id/button4"
+        app:layout_constraintStart_toEndOf="@+id/button3" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="148dp"
+        android:layout_height="134dp"
+        android:layout_marginBottom="24dp"
+        android:layout_marginEnd="32dp"
+        android:drawableTop="@drawable/home"
+        android:text="@string/HOME"
+        app:layout_constraintBottom_toTopOf="@+id/button3"
+        app:layout_constraintEnd_toStartOf="@+id/button"
+        app:layout_constraintHorizontal_chainStyle="packed" />
+
+</android.support.constraint.ConstraintLayout>

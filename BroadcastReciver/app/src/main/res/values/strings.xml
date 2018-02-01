@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BroadcastReciver</string>
+    <string name="title_activity_activitytostopservice">activitytostopservice</string>
+    <string name="stop_music">Stop Music</string>
+</resources>

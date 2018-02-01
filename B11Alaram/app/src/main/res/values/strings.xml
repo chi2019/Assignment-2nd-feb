@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">B11Alaram</string>
+    <string name="stop">stop</string>
+    <string name="snooze5seconds">snooze5Sec</string>
+    <string name="snooze10seconds">snooze10Sec</string>
+    <string name="SetAlarm">SetAlarm</string>
+</resources>

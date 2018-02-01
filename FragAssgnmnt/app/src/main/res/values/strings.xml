@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">FragAssgnmnt</string>
+
+
+    <!-- Country Name -->
+
+    <string name="India">
+        Capital: Delhi    \n
+        Population:        \n
+        Famous Spot: Tajmahal  \n
+    </string>
+    <string name="China">
+        Capital: Beijing \n
+        Population: 1.379 Billion \n
+        Famous Spot: ChinaWall
+    </string>
+    <string name="Japan">
+        Capital: Tokyo \n
+        Population:127 Million \n
+        Famous Spot: Mount Fuji\n
+    </string>
+    <string name="Russia">
+        Capital: Moscow\n
+        Population: 144.3 Million \n
+        Famous Spot: Suzdal \n
+    </string>
+    <string name="Afghanistan">
+        Capital: Kabul \n
+        Population: 34.66 million \n
+        Famous Spot: Shrine Of Ali
+    </string>
+    <string name="Iran">
+        Capital: Tehran \n
+        Population: 80.28 million \n
+        Famous Spot: Naqsh-e jahan
+    </string>
+    <string name="America">
+        Capital: Washington DC \n
+        Population: 323.1 million \n
+        Famous Spot: Niagara Falls
+    </string>
+    <string name="London">
+        Capital: Itself capital \n
+        Population:8.788  million \n
+        Famous Spot: London Eye
+    </string>
+    <string name="Switzerland">
+        Capital: Bern \n
+        Population:8.372 million \n
+        Famous Spot: Lake geneva
+    </string>
+
+    <string name="Thailand">
+        Capital: Bangkok \n
+        Population:68.86 million \n
+        Famous Spot: Grand Palace
+    </string>
+
+    <!-- Country Names End -->
+</resources>

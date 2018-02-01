@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">B11Menu</string>
+    <string name="toast">Toast</string>
+    <string name="todo">TODO</string>
+</resources>

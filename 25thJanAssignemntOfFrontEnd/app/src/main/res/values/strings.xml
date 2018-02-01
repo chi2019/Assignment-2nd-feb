@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">25thJanAssignemntOfFrontEnd</string>
+    <string name="Restaurent">Restaurent</string>
+    <string name="HOME">home</string>
+    <string name="fUN">fun</string>
+    <string name="LOCK">Lock</string>
+    <string name="CART">Cart</string>
+</resources>

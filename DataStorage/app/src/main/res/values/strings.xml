@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DataStorage</string>
+    <string name="save">SAVE</string>
+    <string name="remember_userid_and_password">Remember userid and password</string>
+    <string name="log_in">LOG IN</string>
+    <string name="name">Name</string>
+</resources>
